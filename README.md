@@ -1,4 +1,13 @@
-### Hi there 👋
+## Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-Andrew Mills-success?style=flat&logo=A-Frame)](https://millsdev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LInkedIn-Andrew Mills-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amills25/)
+[![Email](https://img.shields.io/badge/Email-awmills25@gmail.com-red?style=flat&logo=Minutemailer)](mailto:awmills25@gmail.com)
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,py,django,php,laravel,postgres,graphql,ai,vercel,firebase,netlify,docker,postman,vscode)](https://skillicons.dev)
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=amills25&theme=solarized-light&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 **amills25/amills25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
