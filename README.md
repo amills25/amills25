@@ -1,6 +1,6 @@
 ## Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-Andrew Mills-success?style=flat&logo=A-Frame)](https://millsdev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LInkedIn-Andrew Mills-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amills25/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Andrew-success?style=flat&logo=A-Frame)](https://millsdev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LInkedIn-Andrew-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amills25/)
 [![Email](https://img.shields.io/badge/Email-awmills25@gmail.com-red?style=flat&logo=Minutemailer)](mailto:awmills25@gmail.com)
 
 ## Skills
