@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-awmills25@gmail.com-red?style=flat&logo=Minutemailer)](mailto:awmills25@gmail.com)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,py,django,php,laravel,drupal,postgres,graphql,ai,vercel,firebase,netlify,docker,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,py,django,php,laravel,postgres,graphql,ai,vercel,firebase,netlify,docker,postman,vscode)](https://skillicons.dev)
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=amills25&theme=solarized-light&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
